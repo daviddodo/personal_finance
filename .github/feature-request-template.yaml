@@ -1,19 +1,19 @@
 name: Feature Request
 title: '[FR] title'
-description: Open a request to add new functionalities to the project.
+description: Open a Feature Request.
 labels: ['enhancement']
 assignees: ['daviddodo']
 projects: ['daviddodo/2']
 body:
   - type: textarea
     attributes:
-      label: Add a description
+      label: Add a description222222
       description: Add your description here...
     validations:
       required: false
   - type: textarea
     attributes:
-      label: Additional context
+      label: Additional context222222222
       description: Add context/requirements here...
     validations:
       required: false
