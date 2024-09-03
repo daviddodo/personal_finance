@@ -1,4 +1,4 @@
-name: test
+name: Feature Request
 title: '[FR] title'
 description: Open a Feature Request.
 labels: ['enhancement']
@@ -7,13 +7,13 @@ projects: ['daviddodo/2']
 body:
   - type: textarea
     attributes:
-      label: Add a description222222
+      label: Add a description
       description: Add your description here...
     validations:
       required: false
   - type: textarea
     attributes:
-      label: Additional context222222222
+      label: Additional context
       description: Add context/requirements here...
     validations:
       required: false
