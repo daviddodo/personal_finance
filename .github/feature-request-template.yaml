@@ -1,7 +1,7 @@
 name: Feature Request
 title: '[FR] title'
 description: Open a request to add new functionalities to the project.
-labels: ['implementation']
+labels: ['enhancement']
 assignees: ['daviddodo']
 projects: ['daviddodo/2']
 body:
